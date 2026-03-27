@@ -34,7 +34,6 @@ Interactive Sales Dashboard built with Power BI, delivering actionable insights 
 
 ## 2-Tools & Technologies
 
-- SQL for data cleaning and transformation  
 - Power BI for data modeling and dashboard creation  
 - DAX for KPIs and calculated measures  
 - Data Visualization techniques for better insights  
