@@ -55,3 +55,4 @@ Interactive Sales Dashboard built with Power BI, delivering actionable insights 
 The dashboard aims to help business stakeholders understand sales performance, identify profitable segments and products, and make data-driven decisions to improve overall business efficiency and profitability.
 
 ## 5-Dashboard
+![Dashboard]("E:\PORTFOLIO\images\Screenshot 2026-03-27 143631.png")
